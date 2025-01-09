@@ -21,11 +21,11 @@ python3 matach.py
 
 <p>2. Running the system</p> 
 
-<b>1. Name Yout Character and Yout Other 3 Opopnents</b>
+<b>2.1. Name Yout Character and Yout Other 3 Opopnents</b>
 
 The first thing the script asks you to do, is to input 4 names, one at a time, one for you, and one for each one of your oponents/friends.
 
-<b>1. Playing the Game</b>
+<b>2.2. Playing the Game</b>
 
 To play the game, simply enter the number corresponding to a card in your hand, if you cannot play any cards you need to draw a card and pass you turn by inputing '0'.
 
