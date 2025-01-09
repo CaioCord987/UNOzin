@@ -1,0 +1,29 @@
+cartas
+-cor
+-numero
+ter cartas na mão
+comprar carta aleatória
+jogar carta se cor ou numero for igual a carta atual
+-só poder jogar se cor ou num for igual
+-mudar carta atual pra carta que será jogada
+-tirar carta jogada da mão da pessoa
+
+FEITO HEHEHEHEEHHEHE
+
+turno dos jogadores
+-loop infinito onde o player joga, 
+-os bots jogam, 
+-e no fim do turno sempre checa se alguem tem 0 catas, se tiver, quebra o
+ loop e aparece mensagem dizendo quem ganhou 
+
+-player turn function
+-bot turn function
+--print how many card the bot has
+--play a card if possible
+--buy a card if cant play
+--print how many card again (if only one scream UNO)
+--pass turn
+--
+
+
+
